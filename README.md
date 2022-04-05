@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dipangi Chavda
-- 👀 I’m very passionate about data so I am currently in a route of career transition. 
+- 👀 Passionate about data so I am currently in a route of career transition. 
 - 🌱 I’m currently learning python,SQL
 - 📫 you can reach me on dipangi246@gmail.com
 
