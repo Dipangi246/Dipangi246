@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dipangi Chavda
+- 👋 Hi, I’m Dipangi Jadav
 - 👀 Passionate about data so I am currently in a route of career transition. 
 - 🌱 I’m currently learning python,SQL,PowerBI
 - 📫 you can reach me on dipangi246@gmail.com
